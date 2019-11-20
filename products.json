@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Nesquik with beer",
+        "image": "neskvik-s-pivom.jpg",
+        "description": "Best meal for people all ages, in CIS called 'Несквик с пивом(Nesquik s pivom)'",
+        "price": 10.00
     }
 ]
